@@ -1,0 +1,12 @@
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\bin\Debug\net7.0-windows\CodeFusion.deps.json
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\bin\Debug\net7.0-windows\CodeFusion.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\bin\Debug\net7.0-windows\CodeFusion.pdb
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.csproj.AssemblyReference.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.AssemblyInfoInputs.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.AssemblyInfo.cs
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.csproj.CoreCompileInputs.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\refint\CodeFusion.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\CodeFusion.pdb
+F:\VisualStudioRepos\LearnC#\CodeFusion\CodeFusion\obj\Debug\net7.0-windows\ref\CodeFusion.dll

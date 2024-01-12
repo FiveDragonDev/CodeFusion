@@ -1,0 +1,24 @@
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\Black Jack.exe
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\Black Jack.deps.json
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\Black Jack.runtimeconfig.json
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\Black Jack.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\Black Jack.pdb
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\CodeFusion.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\bin\Debug\net7.0-windows\CodeFusion.pdb
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.csproj.AssemblyReference.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.AssemblyInfoInputs.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.AssemblyInfo.cs
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.csproj.CoreCompileInputs.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.csproj.CopyComplete
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\refint\Black Jack.dll
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.pdb
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\Black Jack.genruntimeconfig.cache
+F:\VisualStudioRepos\LearnC#\CodeFusion\Black Jack\obj\Debug\net7.0-windows\ref\Black Jack.dll

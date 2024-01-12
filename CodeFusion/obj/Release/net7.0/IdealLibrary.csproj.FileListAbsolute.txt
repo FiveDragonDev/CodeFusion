@@ -1,0 +1,12 @@
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\bin\Release\net7.0\IdealLibrary.deps.json
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\bin\Release\net7.0\IdealLibrary.dll
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\bin\Release\net7.0\IdealLibrary.pdb
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.csproj.AssemblyReference.cache
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.AssemblyInfoInputs.cache
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.AssemblyInfo.cs
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.csproj.CoreCompileInputs.cache
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.dll
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\refint\IdealLibrary.dll
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\IdealLibrary.pdb
+F:\VisualStudioRepos\LearnC#\IdealLibrary\IdealLibrary\obj\Release\net7.0\ref\IdealLibrary.dll
