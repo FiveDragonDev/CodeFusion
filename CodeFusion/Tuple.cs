@@ -22,6 +22,8 @@
         public object[] ToArray() => _objects.ToArray();
         public List<object> ToList() => _objects;
 
+        public readonly bool Contains(object @object) => _objects.Contains(@object);
+
         public object Pop()
         {
             var obj = _objects[Random.RandomInt(0, _objects.Count)];
@@ -55,9 +57,14 @@
         {
             Tuple temp = t1;
             for (int i = 0; i < t1.Length; i++)
-            {
                 temp -= t2;
-            }
+            return temp;
+        }
+        public static Tuple operator /(Tuple tuple, object @object)
+        {
+            Tuple temp = tuple;
+            while (temp.Contains(@object))
+                temp -= @object;
             return temp;
         }
         public static Tuple operator +(Tuple t1, Tuple t2)
@@ -71,11 +78,15 @@
         }
         public static Tuple operator -(Tuple t1, Tuple t2)
         {
-            Tuple temp = new();
-            for (int i = 0; i < t1.Length; i++)
-                temp._objects.Add(t1[i]);
+            Tuple temp = t1;
             for (int i = 0; i < t2.Length; i++)
-                temp.Pop(t2[i]);
+                temp -= t2[i];
+            return temp;
+        }
+        public static Tuple operator -(Tuple t1, object @object)
+        {
+            Tuple temp = t1;
+            temp.Pop(@object);
             return temp;
         }
 

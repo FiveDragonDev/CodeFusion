@@ -12,6 +12,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Black Jack", "Black Jack\Bl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFusion", "CodeFusion\CodeFusion.csproj", "{FCF2C79B-BB3C-426B-A65C-FBCB8DF41C46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{0DBBFE25-6D04-40D6-A8D9-B6611885C866}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{FCF2C79B-BB3C-426B-A65C-FBCB8DF41C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FCF2C79B-BB3C-426B-A65C-FBCB8DF41C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCF2C79B-BB3C-426B-A65C-FBCB8DF41C46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBBFE25-6D04-40D6-A8D9-B6611885C866}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBBFE25-6D04-40D6-A8D9-B6611885C866}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBBFE25-6D04-40D6-A8D9-B6611885C866}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBBFE25-6D04-40D6-A8D9-B6611885C866}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,4 +1,5 @@
-﻿using Tuple = CodeFusion.Tuple;
+﻿using CodeFusion;
+using Tuple = CodeFusion.Tuple;
 
 namespace Black_Jack
 {
