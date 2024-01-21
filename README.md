@@ -3,8 +3,7 @@
 
 <a href="https://youtu.be/t4e9Ow4CSoM?si=MOz0XEiNU00bDQjU"><h2>PerlinNoise test program result</h2><img width="40%" src="Test/bin/Debug/net7.0-windows/res/perlin/frame_0.png"></a>
 
-<a href="https://youtu.be/t4e9Ow4CSoM?si=MOz0XEiNU00bDQjU">
+
 <h2>VoronoiNoise test program results</h2>
-<img width="40%" src="Test/bin/Debug/net7.0-windows/res/voronoi/height/frame_0.png">
-<img width="40%" src="Test/bin/Debug/net7.0-windows/res/voronoi/distance/frame_0.png">
-</a>
+<a href="https://youtu.be/BOmF8rtIipY?si=UrZ2eCbogaeZxE_B"><img width="40%" src="Test/bin/Debug/net7.0-windows/res/voronoi/height/frame_0.png"></a>
+<a href="https://youtu.be/BOmF8rtIipY?si=UrZ2eCbogaeZxE_B"><img width="40%" src="Test/bin/Debug/net7.0-windows/res/voronoi/distance/frame_0.png"></a>
