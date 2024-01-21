@@ -1,11 +1,12 @@
-﻿namespace CodeFusion
+﻿using System.Collections.Generic;
+
+namespace CodeFusion
 {
     public readonly struct Tuple
     {
         public readonly object this[int i]
         {
             get { return _objects[i]; }
-            set { _objects[i] = value; }
         }
 
         private readonly List<object> _objects;
@@ -19,6 +20,7 @@
         public readonly int GetIndexOf(object @object) =>
             Array.FindIndex(_objects.ToArray(), @object.Equals);
         public readonly string Join(string separator) => string.Join(separator, _objects);
+
         public object[] ToArray() => _objects.ToArray();
         public List<object> ToList() => _objects;
 
@@ -40,6 +42,42 @@
             var obj = _objects[index];
             _objects.RemoveAt(index);
             return obj;
+        }
+
+        public bool TryParse(Type type, out object[]? objects)
+        {
+            List<object> objectsList = new();
+            foreach (object @object in _objects)
+            {
+                if (@object.GetType() != type)
+                {
+                    objects = null;
+                    return false;
+                }
+                objectsList.Add(@object);
+            }
+            objects = objectsList.ToArray();
+            return true;
+        }
+
+        public static Tuple Reverse(Tuple tuple)
+        {
+            List<object> objectsList = tuple._objects;
+            objectsList.Reverse();
+            return new(objectsList);
+        }
+        public static Tuple Shuffle(Tuple tuple)
+        {
+            List<object> list = tuple._objects;
+            System.Random random = new();
+            int n = list.Count;
+            while (n > 1)
+            {
+                n--;
+                int k = random.Next(n + 1);
+                (list[n], list[k]) = (list[k], list[n]);
+            }
+            return new(list);
         }
 
         public static Tuple operator *(Tuple tuple, int times)

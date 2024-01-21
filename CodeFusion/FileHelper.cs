@@ -7,9 +7,8 @@
             string? directoryPath = Path.GetDirectoryName(path);
 
             if (directoryPath != null && !Directory.Exists(directoryPath))
-            {
                 Directory.CreateDirectory(directoryPath);
-            }
+
             return File.Create(path);
         }
     }

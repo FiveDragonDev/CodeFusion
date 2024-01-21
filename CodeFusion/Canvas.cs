@@ -21,6 +21,11 @@ namespace CodeFusion
             _bitmap = new(filename);
             _graphics = Graphics.FromImage(_bitmap);
         }
+        public Canvas(Bitmap bitmap)
+        {
+            _bitmap = bitmap;
+            _graphics = Graphics.FromImage(_bitmap);
+        }
 
         public void Fill(Color color) => _graphics.Clear(color);
 

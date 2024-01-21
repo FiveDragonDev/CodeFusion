@@ -7,7 +7,7 @@ namespace CodeFusion
     {
         public event Action<TcpClient>? OnClientConnect;
 
-        private readonly TcpListener _listener;
+        protected readonly TcpListener _listener;
 
         public Host(int port)
         {

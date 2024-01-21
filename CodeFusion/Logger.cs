@@ -2,8 +2,8 @@
 {
     public class Logger
     {
-        private readonly string _path;
-        private string? _text;
+        protected readonly string _path;
+        protected string? _text;
 
         public Logger(string path = "Log.txt") => _path = path;
 

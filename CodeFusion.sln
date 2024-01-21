@@ -8,11 +8,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Black Jack", "Black Jack\Black Jack.csproj", "{3417EB49-1020-4BF5-9639-72BE8F01A409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cards_Games", "Black Jack\Cards_Games.csproj", "{3417EB49-1020-4BF5-9639-72BE8F01A409}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeFusion", "CodeFusion\CodeFusion.csproj", "{FCF2C79B-BB3C-426B-A65C-FBCB8DF41C46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{0DBBFE25-6D04-40D6-A8D9-B6611885C866}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{0DBBFE25-6D04-40D6-A8D9-B6611885C866}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

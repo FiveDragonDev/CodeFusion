@@ -1,4 +1,6 @@
-﻿namespace CodeFusion
+﻿using static System.MathF;
+
+namespace CodeFusion
 {
     public class Math
     {
@@ -11,5 +13,6 @@
             float v = h == 0 || h == 1 ? y : -x;
             return (h & 2) == 0 ? u : v;
         }
+        public static float Clamp(float value, float min, float max) => Max(Min(value, max), min);
     }
 }
